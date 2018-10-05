@@ -1,5 +1,5 @@
-# setwd("~/github/marketingresearchbook")
-# source("Relationships Between Continuous Var.R")
+# setwd("~/github/MarketingResearchBook")
+# source("simulateData.R")
 
 simRetailerData <- function(ncust=1000) {
     ## 'ncust' number of customers to simulate - default 1000
